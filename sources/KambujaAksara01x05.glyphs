@@ -6035,7 +6035,7 @@ code = "script khmr;
 
 sub uni17D2 [@conj.bb @conj.bc @conj.bd]' lookup change_conj_00123;
 
-#sub [@conj.with.vowels @conj.ab @conj.ac @conj.ad @conj.ae @conj.b7 @conj.b8 @conj.b9 @conj.ba @conj.bb @conj.bc @conj.bd @conj.be @conj.bf @conj.c0 @conj.c1 @conj.c2 @conj.c3 @conj.c6] uni17D2 @consonants' lookup replace_conjunct_cons;
+sub [@conj.with.vowels @conj.ab @conj.ac @conj.ad @conj.ae @conj.b7 @conj.b8 @conj.b9 @conj.ba @conj.bb @conj.bc @conj.bd @conj.be @conj.bf @conj.c0 @conj.c1 @conj.c2 @conj.c3 @conj.c6] uni17D2 @consonants' lookup replace_conjunct_cons;
 sub [@conj.b6 @conj.b6c6 @conj.c5] uni17D2 @conj.cons' lookup replace_cons_conj6;
 sub [@conj.b6 @conj.b6c6 @conj.c5] uni17D2 @conj.cons.006 uni17D2 @conj.cons.004' lookup replace_cons_conj7;
 sub [@conj.b6 @conj.b6c6 @conj.c5] uni17D2 @conj.cons.006 uni17D2 @conj.cons.007 uni17D2 @conj.cons.010' lookup replace_cons_conj8;
